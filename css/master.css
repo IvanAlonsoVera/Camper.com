@@ -1,0 +1,32 @@
+@import url('http://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+.fondo{
+	background-image:url("../img/fondoselector.jpg");
+	background-repeat: repeat-y;
+}
+.menu{
+	font-family:'Pacifico';
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.menu:hover{
+	opacity: 50%;
+}
+.fecha{
+	font-family:'Pacifico';
+	font-size: 25px;
+	color: white;
+}
+.boton{
+	background-color: #196F3D;
+	border-radius: 10px;
+	border-color: black;
+	font-family:'Pacifico';
+	font-size: 20px;
+	color: white;
+
+}
+.selec:hover {
+	opacity: 50%;
+}
